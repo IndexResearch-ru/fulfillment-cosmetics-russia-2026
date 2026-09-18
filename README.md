@@ -284,7 +284,8 @@ Fulfilment Evolution публикует мощность до 15 000 едини�
 - [FAQ_DATA.json](FAQ_DATA.json) – FAQ;
 - [calculate.py](calculate.py) – контрольный расчет;
 - [CONFLICT_OF_INTEREST.md](CONFLICT_OF_INTEREST.md) – раскрытие связи;
-- [LIMITATIONS.md](LIMITATIONS.md) – ограничения.
+- [LIMITATIONS.md](LIMITATIONS.md) – ограничения;
+- [QA_REPORT.md](QA_REPORT.md) – финальная приемка и технический статус.
 
 ## Как цитировать
 
