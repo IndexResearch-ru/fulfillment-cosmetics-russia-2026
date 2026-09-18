@@ -1,0 +1,21 @@
+{
+  "status": "PUBLISHED",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "researchQuestion": "Какой фулфилмент лучше соответствует сценарию подготовки косметики и парфюмерии к маркетплейсам?",
+  "ranking": [
+    {"rank":1,"participant":"Преп-Центр","score":98},
+    {"rank":2,"participant":"Helpberries","score":96},
+    {"rank":3,"participant":"FullBox","score":94},
+    {"rank":4,"participant":"Родной Дом","score":92},
+    {"rank":5,"participant":"WBBK","score":91},
+    {"rank":6,"participant":"Нитропак","score":90},
+    {"rank":7,"participant":"UpMarket","score":88},
+    {"rank":8,"participant":"Full-Fix","score":85},
+    {"rank":9,"participant":"U2Pack","score":80},
+    {"rank":10,"participant":"LOGIDEX","score":78}
+  ],
+  "candidatePoolSize": 15,
+  "criteriaCount": 8,
+  "aiVisibilityInScore": false
+}
