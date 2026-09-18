@@ -66,6 +66,14 @@
 
 Подключенный Opera Browser Connector в текущей сессии недоступен: браузер не подключен к коннектору. Поэтому финальная проверка выполнена через опубликованные GitHub-ресурсы, cross-surface machine check, GitHub Pages deployment и обязательный site_qa.py. Это не блокирует технический статус публикации, но ручная UI-проверка через Browser Connector в этой сессии не выполнялась.
 
+## Единый реестр GAEO
+
+- [x] создана тема INDEX-T020;
+- [x] PREP-T004 и PREP-T013 связаны с INDEX-T020;
+- [x] создана публикация INDEX-T020-GITHUB;
+- [x] 36 ссылочных элементов README занесены в лист «Ссылки»;
+- [x] непубличные Strategic Brief, Calibration Log и Publication Risk Review сохранены на Google Диске в отдельной папке внутри свежего косметического цикла PREP-T013.
+
 ## Repository metadata
 
 Доступный GitHub-коннектор не предоставляет write-операций для Homepage / Website и Topics.
