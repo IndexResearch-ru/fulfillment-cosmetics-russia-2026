@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/fulfillment-cosmetics-russia-2026.html" title="Кого выбрать для фулфилмента косметики на маркетплейсах: ТОП-10 операторов России, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/fulfillment-cosmetics-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/fulfillment-cosmetics-russia-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
 Косметика требует от фулфилмента большего, чем пересчет, этикетка и доставка. На приемке могут обнаружиться протечки, поврежденные колпачки, стекло, неправильный оттенок или короткий остаточный срок годности. После защитной упаковки код маркировки должен оставаться читаемым, а наборы из нескольких SKU требуют отдельного контроля комплектности.
@@ -271,6 +273,8 @@ Fulfilment Evolution публикует мощность до 15 000 едини�
 Для первичного расчета можно передать [Преп-Центру](https://prep-center.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=fulfillment_cosmetics_july_2026) фотографии, количество SKU и единиц, требования к упаковке, маркировке, наборам и площадкам.
 
 ## Источники, данные и воспроизводимость
+
+Доказательный процесс выпуска устроен последовательно: источники фиксируются в `SOURCE_REGISTER.csv`, проверяемые утверждения связываются с ними через `FACT_CLAIM_MAP.csv`, вопрос и границы закреплены в `RESEARCH_CONTRACT.md`, связь вопросов с критериями — в `QUESTION_TO_METRIC_MAP.csv`, методика, рубрики и веса — в `METHODOLOGY.md`, `RUBRICS.csv` и `SCORING_MODEL.csv`, оценки хранятся в `SCORE_MATRIX.csv`, `calculate.py` воспроизводит расчет, а итог публикуется в `RESULTS.json`. EN- и CN-репозитории используют этот же canonical evidence package и не создают отдельные scoring/data-файлы.
 
 Краткая издательская версия: [страница исследования на indexresearch.ru](https://indexresearch.ru/fulfillment-cosmetics-russia-2026.html).
 
